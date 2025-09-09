@@ -1,16 +1,24 @@
-## Hi there 👋
+# Киреев Кирилл
 
-<!--
-**Lambdaderta/Lambdaderta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Аналитик и ML разработчик на Python.
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Специализируюсь на продуктовой аналитике и машинном обучении.
+
+### Аналитический стек:
+- Python: Scipy, matplotlib, seaborn, statsmodels и другие подобные библиотеки. Умею визуализировать данные, проверять и строить гипотезы, хорошо владею статистикой.
+- SQL, Apache Airflow, Apache Spark — инструменты для работы с большими данными.
+
+### ML стек:
+- PyTorch, Transformers, CatBoost/XGBoost/LightGBM, sklearn и другие библиотеки и инструменты.
+- Опыт работы во всех направлениях ML: CV, NLP, классический ML, TTS, рекомендательные системы.
+
+## Достижения
+
+- DANO (Data Analysis National Olympiad) Hackathon 2025 - Победитель (скоро появится тут https://github.com/Lambdaderta/dano)
+- Moscow Masters ML championship - 6 место на финале (https://github.com/Lambdaderta/ml_cup)
+
+## Проекты
+Аналитические кейсы - https://github.com/Lambdaderta/dano
+Ai challange - soon

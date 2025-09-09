@@ -20,5 +20,5 @@
 - Moscow Masters ML championship - 6 место на финале (https://github.com/Lambdaderta/ml_cup)
 
 ## Проекты
-Аналитические кейсы - https://github.com/Lambdaderta/dano
-Ai challange - soon
+- Аналитические кейсы - https://github.com/Lambdaderta/dano
+- Ai challange - soon

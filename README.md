@@ -27,3 +27,4 @@
 ## Контакты
 
 - [Мой Telegram](https://t.me/lyambdadelta)
+- [Мой Telegram-канал](https://t.me/lambda_it)

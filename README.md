@@ -16,7 +16,7 @@
 
 ## Достижения
 
-- DANO (Data Analysis National Olympiad) Hackathon 2025 - Победитель ([скоро появится тут](https://github.com/Lambdaderta/dano))
+- DANO (Data Analysis National Olympiad) Hackathon 2025 - Победитель ([Работа + диплом](https://github.com/Lambdaderta/dano))
 - Moscow Masters ML championship - 6 место на финале ([репозиторий](https://github.com/Lambdaderta/ml_cup))
 
 ## Проекты

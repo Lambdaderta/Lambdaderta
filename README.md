@@ -22,7 +22,7 @@
 ## Проекты
 
 - [Аналитические кейсы](https://github.com/Lambdaderta/dano)
-- Ai challenge - Решение залью после конца тура.
+- Ai challenge - Решение залью позже
 
 ## Контакты
 

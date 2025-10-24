@@ -11,8 +11,9 @@
 - SQL, Apache Airflow, Apache Spark — инструменты для работы с большими данными и построением ETL/ELT процессов.
 
 ### ML стек:
-- PyTorch, Transformers, CatBoost/XGBoost/LightGBM, sklearn и другие библиотеки и инструменты.
+- PyTorch, Transformers, Бустинги, sklearn и другие библиотеки и инструменты.
 - Опыт работы во всех направлениях ML: CV, NLP, классический ML, TTS, рекомендательные системы.
+- Активно изучаю ML в робототехнике
 
 ## Достижения
 

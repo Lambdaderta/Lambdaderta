@@ -18,7 +18,7 @@
 ## Достижения
 
 - DANO (Data Analysis National Olympiad) Hackathon 2025 - x4 Победитель ([Работы + дипломы](https://github.com/Lambdaderta/dano))
-- Финалист Всероссийской олимпиады по Искусвенному Интеллекту - ai.edu.gov 
+- Финалист Всероссийской олимпиады по Искусвенному Интеллекту - ai.edu.gov.ru
 - Moscow Masters ML championship - 6 место на финале ([репозиторий](https://github.com/Lambdaderta/ml_cup))
 
 ## Проекты

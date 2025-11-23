@@ -17,8 +17,8 @@
 
 ## Достижения
 
+- Призер Всероссийской олимпиады по Искусвенному Интеллекту. Также в командном туре занял 4 место. [Ссылка на олимпиаду](https://ai.edu.gov.ru/)
 - DANO (Data Analysis National Olympiad) Hackathon 2025 - x4 Победитель ([Работы + дипломы](https://github.com/Lambdaderta/dano))
-- Финалист Всероссийской олимпиады по Искусвенному Интеллекту - ai.edu.gov.ru
 - Moscow Masters ML championship - 6 место на финале ([репозиторий](https://github.com/Lambdaderta/ml_cup))
 
 ## Проекты
@@ -28,3 +28,4 @@
 ## Контакты
 
 - [Мой Telegram](https://t.me/lyambdadelta)
+- [Мой Telegram-канал](https://t.me/lambda_it)

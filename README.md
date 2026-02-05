@@ -29,7 +29,7 @@ ML Разработчик и Аналитик из Москвы.
 ## Проекты
 
 - [Аналитические кейсы](https://github.com/Lambdaderta/dano)
-- [AIO](https://github.com/Lambdaderta/aio)
+- [Предпроф](https://github.com/Lambdaderta/aio)
 
 ## Контакты
 

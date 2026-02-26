@@ -7,7 +7,8 @@
 - **Призер Всероссийской олимпиады по Искусвенному Интеллекту.** [Ссылка на олимпиаду](https://ai.edu.gov.ru/)
 - **В командном туре занял 4 место.** 
 - **DANO (Data Analysis National Olympiad) Hackathon 2025 - x4 Победитель** ([Работы + дипломы](https://github.com/Lambdaderta/dano))
-- **Moscow Masters ML championship - 6 место на финале** ([репозиторий](https://github.com/Lambdaderta/ml_cup))
+- **Moscow Masters ML championship - 3 место 2026** =
+- **Moscow Masters ML championship - 6 место 2025** ([репозиторий](https://github.com/Lambdaderta/ml_cup))
 
 ## Обо мне
 

@@ -25,13 +25,18 @@ ML Разработчик и Аналитик из Москвы.
 ### ML стек:
 - PyTorch, Transformers, Бустинги, sklearn и другие библиотеки и инструменты.
 - Опыт работы во всех направлениях ML: CV, NLP, классический ML, TTS, рекомендательные системы.
+
+
+### Робототехника
 - Занимаюсь исследованиями в направлении Physical AI (Робототехника)
+- Arduino, Raspberry PI expert
 
 
 ## Проекты
 
 - [Аналитические кейсы](https://github.com/Lambdaderta/dano)
 - [Предпроф](https://github.com/Lambdaderta/aio)
+- [Манипулятор с ИИ Агентом](https://github.com/Lambdaderta/aio_robot) наработки манипуляторы и ПО для него
 
 ## Контакты
 

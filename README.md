@@ -116,12 +116,6 @@ ML Разработчик и Аналитик из Москвы.
 
 ## GitHub Статистика
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambdaderta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdaderta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdaderta&theme=tokyonight&hide_border=true" />
 
@@ -133,52 +127,21 @@ ML Разработчик и Аналитик из Москвы.
 
 ---
 
-## Kaggle
+<!-- ## Kaggle -->
 
 <!-- Замени YOUR_KAGGLE_USERNAME на свой username в Kaggle -->
 <!-- Если нет аккаунта — удали этот блок и бейдж в шапке -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lambdaderta)](https://www.kaggle.com/lambdaderta)
 
-</div>
+</div> 
 
----
+--- -->
 
-<!--
-  Анимация змейки.
-  Чтобы она работала, создай в репозитории файл .github/workflows/snake.yml:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Lambdaderta
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  После первого запуска workflow раскомментируй блок ниже.
--->
-
-<!--
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Lambdaderta/Lambdaderta/output/github-snake-dark.svg" />
 
 </div>
--->

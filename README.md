@@ -1,44 +1,192 @@
+<div align="center">
+
 # Киреев Кирилл
 
-**ML Разработчик и аналитик**
-**Data Scientist in MIRFOODS**
+### ML Разработчик · Аналитик · Data Scientist @ MIRFOODS
+
+[![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
+[![Telegram Channel](https://img.shields.io/badge/Канал-lambda__it-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lambda_it)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+
+</div>
+
+---
 
 ## Достижения
 
-- **Призер Всероссийской олимпиады по Искусвенному Интеллекту** [Ссылка на олимпиаду](https://ai.edu.gov.ru/)
-- **4 место командного тура** 
-- **DANO (Data Analysis National Olympiad) Hackathon 2025 - x4 Победитель** ([Работы + дипломы](https://github.com/Lambdaderta/dano))
-- **Moscow Masters ML championship - 3 место 2026** 
-- **Moscow Masters ML championship - 6 место 2025** ([репозиторий](https://github.com/Lambdaderta/ml_cup))
+| Год | Соревнование | Результат |
+|:---:|:---|:---:|
+| 2026 | **Moscow Masters ML Championship** | **3 место** |
+| 2025 | **DANO Hackathon** — [работы + дипломы](https://github.com/Lambdaderta/dano) | **x4 Победитель** |
+| 2025 | **Moscow Masters ML Championship** — [репозиторий](https://github.com/Lambdaderta/ml_cup) | **6 место** |
+| 2024 | **Всероссийская олимпиада по ИИ** — [сайт](https://ai.edu.gov.ru/) | **Призёр** |
+| 2024 | **Командный тур Всеросса по ИИ** | **4 место** |
+
+---
 
 ## Обо мне
 
 ML Разработчик и Аналитик из Москвы.
-Специализируюсь на создании продуктов, связанных с ИИ. Продуктовой и бизнес аналитике. Робототехнике.
+Специализируюсь на создании продуктов, связанных с ИИ. Продуктовой и бизнес-аналитике. Робототехнике.
 Большой опыт работы с RAG, LLM и VLM архитектурами.
 
+---
 
-### Аналитический стек:
-- Python: Scipy, matplotlib, seaborn, statsmodels и другие подобные библиотеки. Умею продумать, проверить, обосновать гипотезу. Отлично владею статистикой. Умею понятно и красиво визуализировать данные.
-- SQL, Apache Airflow, Apache Spark — инструменты для работы с большими данными и построением ETL/ELT процессов.
+## Технологический стек
 
-### ML стек:
-- PyTorch, Transformers, Бустинги, sklearn и другие библиотеки и инструменты.
-- Опыт работы во всех направлениях ML: CV, NLP, классический ML, TTS, рекомендательные системы.
+<details>
+<summary><b>Аналитика</b></summary>
+<br>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-### Робототехника
-- Занимаюсь исследованиями в направлении Physical AI (Робототехника)
-- Arduino, Raspberry PI expert
+Умею продумать, проверить, обосновать гипотезу. Отлично владею статистикой. Умею понятно и красиво визуализировать данные. Опыт построения ETL/ELT процессов.
 
+</details>
+
+<details>
+<summary><b>Machine Learning</b></summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+
+Опыт работы во всех направлениях ML: CV, NLP, классический ML, TTS, рекомендательные системы.
+
+</details>
+
+<details>
+<summary><b>Робототехника</b></summary>
+<br>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+
+Занимаюсь исследованиями в направлении Physical AI. Arduino, Raspberry PI expert.
+
+</details>
+
+---
 
 ## Проекты
 
-- [Аналитические кейсы](https://github.com/Lambdaderta/dano)
-- [Предпроф](https://github.com/Lambdaderta/aio)
-- [Манипулятор с ИИ Агентом](https://github.com/Lambdaderta/aio_robot) наработки манипуляторы и ПО для него
+<table>
+<tr>
+<td width="50%">
 
-## Контакты
+### [Аналитические кейсы](https://github.com/Lambdaderta/dano)
+Решения кейсов DANO Hackathon: анализ данных, визуализация, статистические тесты
 
-- [Мой Telegram](https://t.me/lyambdadelta)
-- [Мой Telegram-канал](https://t.me/lambda_it)
+</td>
+<td width="50%">
+
+### [Манипулятор с ИИ-Агентом](https://github.com/Lambdaderta/aio_robot)
+Робот-манипулятор, управляемый ИИ-агентом. Наработки по железу и ПО
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Предпроф](https://github.com/Lambdaderta/aio)
+Олимпиадные задачи и решения по направлению ИИ
+
+</td>
+<td width="50%">
+
+### [ML Cup](https://github.com/Lambdaderta/ml_cup)
+Решения Moscow Masters ML Championship
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Статистика
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lambdaderta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdaderta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdaderta&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lambdaderta&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## Kaggle
+
+<!-- Замени YOUR_KAGGLE_USERNAME на свой username в Kaggle -->
+<!-- Если нет аккаунта — удали этот блок и бейдж в шапке -->
+
+<div align="center">
+
+[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/YOUR_KAGGLE_USERNAME)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+
+</div>
+
+---
+
+<!--
+  Анимация змейки.
+  Чтобы она работала, создай в репозитории файл .github/workflows/snake.yml:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Lambdaderta
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  После первого запуска workflow раскомментируй блок ниже.
+-->
+
+<!--
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lambdaderta/Lambdaderta/output/github-snake-dark.svg" />
+
+</div>
+-->
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Lambdaderta&color=blueviolet&style=flat-square&label=Profile+views)
+
+</div>

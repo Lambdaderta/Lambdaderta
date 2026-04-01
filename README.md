@@ -127,21 +127,11 @@ ML Разработчик и Аналитик из Москвы.
 
 ---
 
-<!-- ## Kaggle -->
+<!-- ## Kaggle
 
-<!-- Замени YOUR_KAGGLE_USERNAME на свой username в Kaggle -->
-<!-- Если нет аккаунта — удали этот блок и бейдж в шапке -->
-
-<!-- <div align="center">
+<div align="center">
 
 [![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lambdaderta)](https://www.kaggle.com/lambdaderta)
 
 </div> 
-
---- -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Lambdaderta/Lambdaderta/output/github-snake-dark.svg" />
-
-</div>
+-->

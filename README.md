@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
 [![Telegram Channel](https://img.shields.io/badge/Канал-lambda__it-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lambda_it)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lambdaderta)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 | Год | Соревнование | Результат |
 |:---:|:---|:---:|
+| 2025 | **Всероссийская олимпиада по ИИ** — [сайт](https://ai.edu.gov.ru/) | **Призёр** |
 | 2026 | **Moscow Masters ML Championship** | **3 место** |
 | 2025 | **DANO Hackathon** — [работы + дипломы](https://github.com/Lambdaderta/dano) | **x4 Победитель** |
 | 2025 | **Moscow Masters ML Championship** — [репозиторий](https://github.com/Lambdaderta/ml_cup) | **6 место** |
-| 2024 | **Всероссийская олимпиада по ИИ** — [сайт](https://ai.edu.gov.ru/) | **Призёр** |
-| 2024 | **Командный тур Всеросса по ИИ** | **4 место** |
+| 2025 | **Командный тур Всеросса по ИИ** | **4 место** |
 
 ---
 
@@ -44,8 +44,6 @@ ML Разработчик и Аналитик из Москвы.
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 Умею продумать, проверить, обосновать гипотезу. Отлично владею статистикой. Умею понятно и красиво визуализировать данные. Опыт построения ETL/ELT процессов.
 
@@ -56,6 +54,8 @@ ML Разработчик и Аналитик из Москвы.
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
@@ -100,7 +100,7 @@ ML Разработчик и Аналитик из Москвы.
 <td width="50%">
 
 ### [Предпроф](https://github.com/Lambdaderta/aio)
-Олимпиадные задачи и решения по направлению ИИ
+Кейс предпроф олимпипды (100/100 баллов)
 
 </td>
 <td width="50%">
@@ -140,7 +140,7 @@ ML Разработчик и Аналитик из Москвы.
 
 <div align="center">
 
-[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/YOUR_KAGGLE_USERNAME)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lambdaderta)](https://www.kaggle.com/lambdaderta)
 
 </div>
 
@@ -182,11 +182,3 @@ ML Разработчик и Аналитик из Москвы.
 
 </div>
 -->
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Lambdaderta&color=blueviolet&style=flat-square&label=Profile+views)
-
-</div>

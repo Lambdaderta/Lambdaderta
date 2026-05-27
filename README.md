@@ -2,7 +2,7 @@
 
 # Киреев Кирилл
 
-### ML Разработчик · Аналитик · Data Scientist @ MIRFOODS
+### ML Разработчик · Аналитик · Data Scientist
 
 [![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
 [![Telegram Channel](https://img.shields.io/badge/Канал-lambda__it-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lambda_it)

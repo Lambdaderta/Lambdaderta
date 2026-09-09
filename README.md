@@ -1,137 +1,79 @@
 <div align="center">
 
-# Киреев Кирилл
+# Кирилл Киреев
 
-### ML Разработчик · Аналитик · Data Scientist
+### ML Engineer · R&D · Robotics
 
-[![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
-[![Telegram Channel](https://img.shields.io/badge/Канал-lambda__it-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lambda_it)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lambdaderta)
+[![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
+[![Kaggle](https://img.shields.io/badge/Kaggle-lambdaderta-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/lambdaderta)
+[![Email](https://img.shields.io/badge/Email-kirill.kireev.kk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kirill.kireev.kk@gmail.com)
 
 </div>
-
----
-
-## Достижения
-
-| Год | Соревнование | Результат |
-|:---:|:---|:---:|
-| 2025 | **Всероссийская олимпиада по ИИ** — [сайт](https://ai.edu.gov.ru/) | **Призёр** |
-| 2026 | **Moscow Masters ML Championship** | **3 место** |
-| 2025 | **DANO Hackathon** — [работы + дипломы](https://github.com/Lambdaderta/dano) | **x4 Победитель** |
-| 2025 | **Moscow Masters ML Championship** — [репозиторий](https://github.com/Lambdaderta/ml_cup) | **6 место** |
-| 2025 | **Командный тур Всеросса по ИИ** | **4 место** |
-
----
 
 ## Обо мне
 
-ML Разработчик и Аналитик из Москвы.
-Специализируюсь на создании продуктов, связанных с ИИ. Продуктовой и бизнес-аналитике. Робототехнике.
-Большой опыт работы с RAG, LLM и VLM архитектурами.
+ML-инженер из Москвы. Работал в R&D-команде MirFoods: строил модели прогнозирования спроса, исследовал многомерные временные ряды и участвовал в развитии корпоративной data-платформы. Снизил WAPE прогноза продаж с 25-35% до 10-15% в зависимости от SKU.
 
----
+В проекте Unitarius для Фора-Банка разрабатывал модели реакции клиентов на изменение тарифов и прогноза дохода. Вне работы развиваю собственную роботизированную платформу AIO и экспериментирую с CV, VLM, tool calling и RL.
 
-## Технологический стек
+Студент [Центрального университета](https://centraluniversity.ru/), программа MCS'30.
 
-<details>
-<summary><b>Аналитика</b></summary>
-<br>
+## Избранные проекты
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### [AIO Robot](https://github.com/Lambdaderta/aio_robot)
 
-Умею продумать, проверить, обосновать гипотезу. Отлично владею статистикой. Умею понятно и красиво визуализировать данные. Опыт построения ETL/ELT процессов.
+Local-first агентская платформа для управления физическими роботами. В репозитории есть рабочая реализация для самодельной роботизированной руки:
 
-</details>
+- FastAPI-бэкенд и React-интерфейс;
+- управление через Arduino Leonardo;
+- tool calling для локальной LLM через LM Studio;
+- Telegram-бот, голосовой интерфейс и MCP-сервер;
+- CV-контур для переноса движений руки человека на робота;
+- тесты для control layer, tool loop, MCP и Telegram runtime.
 
-<details>
-<summary><b>Machine Learning</b></summary>
-<br>
+`Python` `FastAPI` `PyTorch` `CV` `VLM` `LLM` `MCP` `Arduino` `React`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+### [DANO](https://github.com/Lambdaderta/dano)
 
-Опыт работы во всех направлениях ML: CV, NLP, классический ML, TTS, рекомендательные системы.
+Решения аналитических хакатонов: EDA, статистические тесты, проверка гипотез, визуализация и ML-модели. В репозитории собраны ноутбуки, презентации и материалы четырёх победных кейсов.
 
-</details>
+`Python` `pandas` `SciPy` `statsmodels` `Matplotlib` `Seaborn` `Jupyter Notebook`
 
-<details>
-<summary><b>Робототехника</b></summary>
-<br>
+### [Hotel Recommender / ML Cup](https://github.com/Lambdaderta/ml_cup)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+Система рекомендаций отелей по текстам отзывов. Реализованы загрузка и обработка данных, TF-IDF-векторизация, рекомендательный сервис и Airflow DAG для обновления данных и модели.
 
-Занимаюсь исследованиями в направлении Physical AI. Arduino, Raspberry PI expert.
+`Python` `scikit-learn` `Airflow` `Flask` `NLP` `Recommender Systems`
 
-</details>
+### [PREDPROF Education Platform](https://github.com/Lambdaderta/aio)
 
----
+Образовательная платформа с локальной LLM, генерацией и разбором задач, векторным поиском, пользовательскими ролями и соревновательным режимом. Проект получил 100/100 баллов на предпрофессиональной олимпиаде.
 
-## Проекты
+`FastAPI` `React` `PostgreSQL` `pgvector` `Docker Compose` `LLM` `REST API`
 
-<table>
-<tr>
-<td width="50%">
+## Опыт и достижения
 
-### [Аналитические кейсы](https://github.com/Lambdaderta/dano)
-Решения кейсов DANO Hackathon: анализ данных, визуализация, статистические тесты
+| Год | Результат |
+|:---:|:---|
+| 2026 | 3-е место на чемпионате «Московские мастера» по ML |
+| 2025 | Призёр Всероссийской олимпиады по искусственному интеллекту |
+| 2025 | Четыре победы на аналитических хакатонах DANO |
+| 2025 | 4-е место в командном туре Всероссийской олимпиады по ИИ |
+| 2025-2026 | Участие в NEOAI, Avito ML Cup, Data Fusion, НТО ИИ, НТО БДиМО, PROD ML и RL-соревнованиях на Kaggle |
 
-</td>
-<td width="50%">
+## Технологии
 
-### [Манипулятор с ИИ-Агентом](https://github.com/Lambdaderta/aio_robot)
-Робот-манипулятор, управляемый ИИ-агентом. Наработки по железу и ПО
+**ML / DL:** Python, PyTorch, scikit-learn, CatBoost, XGBoost, LightGBM, Feature Engineering, Time Series Forecasting, Recommender Systems, CV, NLP, RAG, VLM, RL
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Data / MLOps:** SQL, ClickHouse, PostgreSQL, Spark, Hadoop, pandas, NumPy, Polars, Airflow, Dagster, MLflow, Docker, DVC
 
-### [Предпроф](https://github.com/Lambdaderta/aio)
-Кейс предпроф олимпипды (100/100 баллов)
+**Engineering:** FastAPI, REST API, MCP, Git, Linux, Arduino, React
 
-</td>
-<td width="50%">
+**Аналитика:** математическая статистика, теория вероятностей, A/B-тесты, bootstrap, panel regression, difference-in-differences, event study
 
-### [ML Cup](https://github.com/Lambdaderta/ml_cup)
-Решения Moscow Masters ML Championship
+## Контакты
 
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Статистика
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdaderta&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lambdaderta&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<!-- ## Kaggle
-
-<div align="center">
-
-[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lambdaderta)](https://www.kaggle.com/lambdaderta)
-
-</div> 
--->
+- Telegram: [@lyambdadelta](https://t.me/lyambdadelta)
+- Канал: [@lambda_it](https://t.me/lambda_it)
+- Email: [kirill.kireev.kk@gmail.com](mailto:kirill.kireev.kk@gmail.com)
+- Kaggle: [lambdaderta](https://www.kaggle.com/lambdaderta)

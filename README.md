@@ -1,79 +1,69 @@
 <div align="center">
 
-# Кирилл Киреев
+# Kirill Kireev
 
-### ML Engineer · R&D · Robotics
+### ML Engineer · Applied ML · AI Agents · Robotics
 
-[![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
-[![Kaggle](https://img.shields.io/badge/Kaggle-lambdaderta-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/lambdaderta)
 [![Email](https://img.shields.io/badge/Email-kirill.kireev.kk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kirill.kireev.kk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirill%20Kireev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-kireev-a7b63b439/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-lambdaderta-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/lambdaderta)
+[![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lyambdadelta)
 
 </div>
 
-## Обо мне
+I build ML systems across forecasting, data products, and AI agents. At MirFoods R&D ML, I worked on sales forecasting and internal models, data integration, and tools for studying commercial and brand metrics. My recent work includes Brand Twin Lab, a platform for analyzing brand dynamics, and Consumer Lab, a multi-agent system for testing marketing concepts with evidence-grounded personas.
 
-ML-инженер из Москвы. Работал в R&D-команде MirFoods: участвовал в развитии корпоративной data-платформы и DS Hub, разрабатывал внутренние модели прогнозирования и инструменты для анализа коммерческих и маркетинговых данных.
+I also worked on Unitarius, developing models of customer response to tariff changes and customer revenue for a banking platform. Outside work, I build tools that connect models to real interfaces and devices.
 
-В проекте Unitarius для Фора-Банка разрабатывал модели реакции клиентов на изменение тарифов и прогноза дохода. Вне работы развиваю собственную роботизированную платформу AIO и экспериментирую с CV, VLM, tool calling и RL.
+I study Machine Learning and Computer Science at [Central University](https://centraluniversity.ru/) (MCS '30).
 
-Студент [Центрального университета](https://centraluniversity.ru/), программа MCS'30.
-
-## Избранные проекты
+## Projects
 
 ### [AIO Robot](https://github.com/Lambdaderta/aio_robot)
 
-Local-first агентская платформа для управления физическими роботами. В репозитории есть рабочая реализация для самодельной роботизированной руки:
+A local AI agent that can use tools to control a robotic arm. I implemented the function-calling loop, structured tool outputs, argument validation, motion limits, and an MCP server. The system also includes a web interface, Telegram bot, speech input/output, and computer vision for mapping human poses to robot movements.
 
-- FastAPI-бэкенд и React-интерфейс;
-- управление через Arduino Leonardo;
-- tool calling для локальной LLM через LM Studio;
-- Telegram-бот, голосовой интерфейс и MCP-сервер;
-- CV-контур для переноса движений руки человека на робота;
-- тесты для control layer, tool loop, MCP и Telegram runtime.
+`Python` `FastAPI` `LLM agents` `MCP` `MediaPipe` `Arduino` `React`
 
-`Python` `FastAPI` `PyTorch` `CV` `VLM` `LLM` `MCP` `Arduino` `React`
+### [Local Search](https://github.com/Lambdaderta/local_search)
+
+An Android gallery with on-device semantic photo search in English and Russian. It indexes images locally with ruCLIP and ONNX Runtime, stores compact embeddings in SQLite, and searches without an account, server, or internet permission.
+
+`Java` `Android` `ONNX Runtime` `Computer Vision` `SQLite` `Semantic Search`
 
 ### [DANO](https://github.com/Lambdaderta/dano)
 
-Решения аналитических хакатонов: EDA, статистические тесты, проверка гипотез, визуализация и ML-модели. В репозитории собраны ноутбуки, презентации и материалы четырёх победных кейсов.
+Data analysis hackathon projects covering exploratory analysis, statistical tests, hypothesis testing, visualizations, and ML models. The repository contains notebooks and presentations from four winning team projects.
 
-`Python` `pandas` `SciPy` `statsmodels` `Matplotlib` `Seaborn` `Jupyter Notebook`
+`Python` `pandas` `SciPy` `statsmodels` `Matplotlib` `Jupyter`
 
 ### [Hotel Recommender / ML Cup](https://github.com/Lambdaderta/ml_cup)
 
-Система рекомендаций отелей по текстам отзывов. Реализованы загрузка и обработка данных, TF-IDF-векторизация, рекомендательный сервис и Airflow DAG для обновления данных и модели.
+A hotel recommender built from review text, with data processing, TF-IDF features, a recommendation service, and an Airflow pipeline for updates.
 
 `Python` `scikit-learn` `Airflow` `Flask` `NLP` `Recommender Systems`
 
 ### [PREDPROF Education Platform](https://github.com/Lambdaderta/aio)
 
-Образовательная платформа с локальной LLM, генерацией и разбором задач, векторным поиском, пользовательскими ролями и соревновательным режимом. Проект получил 100/100 баллов на предпрофессиональной олимпиаде.
+An educational platform with a local LLM, problem generation and review, vector search, user roles, and a competition mode. The project received a full score in a student engineering competition.
 
-`FastAPI` `React` `PostgreSQL` `pgvector` `Docker Compose` `LLM` `REST API`
+`FastAPI` `React` `PostgreSQL` `pgvector` `Docker Compose` `LLM`
 
-## Опыт и достижения
+## Selected results
 
-| Год | Результат |
-|:---:|:---|
-| 2026 | 3-е место на чемпионате «Московские мастера» по ML |
-| 2025 | Призёр Всероссийской олимпиады по искусственному интеллекту |
-| 2025 | Четыре победы на аналитических хакатонах DANO |
-| 2025 | 4-е место в командном туре Всероссийской олимпиады по ИИ |
-| 2025-2026 | Участие в NEOAI, Avito ML Cup, Data Fusion, НТО ИИ, НТО БДиМО, PROD ML и RL-соревнованиях на Kaggle |
+- Prize winner in the 2025 national AI olympiad.
+- Four wins in DANO data analysis hackathons.
+- 4th place in the team round of the 2025 national AI olympiad.
+- Participated in NEOAI, Avito ML Cup, Data Fusion, and reinforcement learning competitions on Kaggle.
 
-## Технологии
+## Tools I use
 
-**ML / DL:** Python, PyTorch, scikit-learn, CatBoost, XGBoost, LightGBM, Feature Engineering, Time Series Forecasting, Recommender Systems, CV, NLP, RAG, VLM, RL
+**Machine learning:** Python, PyTorch, scikit-learn, CatBoost, XGBoost, LightGBM, feature engineering, forecasting, recommender systems, CV, NLP, RAG, VLM, reinforcement learning
 
-**Data / MLOps:** SQL, ClickHouse, PostgreSQL, Spark, Hadoop, pandas, NumPy, Polars, Airflow, Dagster, MLflow, Docker, DVC
+**Data and engineering:** SQL, ClickHouse, PostgreSQL, pandas, NumPy, Docker, FastAPI, REST APIs, MCP, Git, Linux, React, Arduino
 
-**Engineering:** FastAPI, REST API, MCP, Git, Linux, Arduino, React
+**Statistics:** hypothesis testing, A/B testing, bootstrap, panel regression, difference-in-differences, event studies
 
-**Аналитика:** математическая статистика, теория вероятностей, A/B-тесты, bootstrap, panel regression, difference-in-differences, event study
+## Contact
 
-## Контакты
-
-- Telegram: [@lyambdadelta](https://t.me/lyambdadelta)
-- Канал: [@lambda_it](https://t.me/lambda_it)
-- Email: [kirill.kireev.kk@gmail.com](mailto:kirill.kireev.kk@gmail.com)
-- Kaggle: [lambdaderta](https://www.kaggle.com/lambdaderta)
+- [Email](mailto:kirill.kireev.kk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kirill-kireev-a7b63b439/) · [Telegram](https://t.me/lyambdadelta) · [Kaggle](https://www.kaggle.com/lambdaderta)

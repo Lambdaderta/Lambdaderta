@@ -19,6 +19,14 @@ I study Machine Learning and Computer Science at [Central University](https://ce
 
 ## Projects
 
+### [TeamWeave](https://github.com/Anton15K/IBM_HACK) · IBM Bob 2.0 Hackathon
+
+Co-developed TeamWeave for the lablab.ai IBM Bob 2.0 Hackathon. It turns coding tasks into dependency graphs: agents work in Git-bound workspaces, pass results to downstream tasks, and pause for human review. The platform integrates IBM Bob Shell and OpenAI-compatible models, with bounded tool calling, execution history, workspace change tracking, and cross-team handoffs.
+
+Team project hosted in a teammate's repository. [Project overview](https://anton15k.github.io/IBM_HACK/).
+
+`TypeScript` `React` `Fastify` `SQLite` `AI agents` `Tool calling` `IBM Bob` `Git`
+
 ### [AIO Robot](https://github.com/Lambdaderta/aio_robot)
 
 A local AI agent that can use tools to control a robotic arm. I implemented the function-calling loop, structured tool outputs, argument validation, motion limits, and an MCP server. The system also includes a web interface, Telegram bot, speech input/output, and computer vision for mapping human poses to robot movements.

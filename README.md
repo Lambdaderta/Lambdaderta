@@ -15,7 +15,7 @@ I build ML systems across forecasting, data products, and AI agents. At MirFoods
 
 I also worked on Unitarius, developing models of customer response to tariff changes and customer revenue for a banking platform. Outside work, I build tools that connect models to real interfaces and devices.
 
-I study Machine Learning and Computer Science at [Central University](https://centraluniversity.ru/) (MCS '30).
+I study Machine Learning and Computer Science at [Central University](https://centraluniversity.ru/) (M&CS '30).
 
 ## Projects
 

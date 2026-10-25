@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-kirill.kireev.kk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kirill.kireev.kk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirill%20Kireev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-kireev-a7b63b439/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-lambdaderta-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/lambdaderta)
-[![Telegram](https://img.shields.io/badge/Telegram-@lyambdadelta-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ki_kireev)
+[![Telegram](https://img.shields.io/badge/Telegram-@ki_kireev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ki_kireev)
 
 </div>
 

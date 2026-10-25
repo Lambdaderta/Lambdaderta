@@ -17,6 +17,8 @@ I also worked on Unitarius, developing models of customer response to tariff cha
 
 I study Machine Learning and Computer Science at [Central University](https://centraluniversity.ru/) (M&CS '30).
 
+I am currently interning with the AI ​​agents for cybersecurity R&D team at T-Bank (ex. Tinkoff).
+
 ## Projects
 
 ### [TeamWeave](https://github.com/Anton15K/IBM_HACK) · IBM Bob 2.0 Hackathon

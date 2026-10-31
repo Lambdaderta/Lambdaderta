@@ -2,7 +2,7 @@
 
 # Kirill Kireev
 
-### ML Engineer · Applied ML · AI Agents · Robotics
+### ML Engineer · AI Agents · Recommender Systems · Robotics
 
 [![Email](https://img.shields.io/badge/Email-kirill.kireev.kk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kirill.kireev.kk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirill%20Kireev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-kireev-a7b63b439/)
@@ -11,15 +11,21 @@
 
 </div>
 
-I build ML systems across forecasting, data products, and AI agents. At MirFoods R&D ML, I worked on sales forecasting and internal models, data integration, and tools for studying commercial and brand metrics. My recent work includes Brand Twin Lab, a platform for analyzing brand dynamics, and Consumer Lab, a multi-agent system for testing marketing concepts with evidence-grounded personas.
+I build ML systems across AI agents, recommendation, forecasting, and data products. Since October 2026, I have been a Developer Intern on the Nulla team at T-Bank, working on a multi-agent AI system for automating information security tasks and discovering vulnerabilities in applications and infrastructure.
+
+Previously, at MirFoods R&D ML, I worked on sales forecasting and internal models, data integration, and tools for studying commercial and brand metrics. This includes Brand Twin Lab, a platform for analyzing brand dynamics, and Consumer Lab, a multi-agent system for testing marketing concepts with evidence-grounded personas.
 
 I also worked on Unitarius, developing models of customer response to tariff changes and customer revenue for a banking platform. Outside work, I build tools that connect models to real interfaces and devices.
 
 I study Machine Learning and Computer Science at [Central University](https://centraluniversity.ru/) (M&CS '30).
 
-I am currently interning with the AI ​​agents for cybersecurity R&D team at T-Bank (ex. Tinkoff).
-
 ## Projects
+
+### [T-Lab RecSys](https://github.com/Lambdaderta/tlab_recsys) · Ongoing research
+
+Two studies on music recommendation with Yambda-50M: retrieval and reranking with ALS, CatBoost, OpenFE-style feature generation, and LightGCN; and sequential recommendation with GPT-2/SASRec and offline RL. The combined reranker reached NDCG@10 of 0.0873 versus 0.0755 for CatBoost with manual features in a 2K-user study. The RL experiments explore AWR, off-policy REINFORCE, reward modeling, and SNIPS evaluation, with temporal splits and bootstrap comparisons. Reports include limitations and negative results, not just the best scores.
+
+`Python` `PyTorch` `CatBoost` `ALS` `LightGCN` `SASRec` `Offline RL` `Recommender Systems`
 
 ### [TeamWeave](https://github.com/Anton15K/IBM_HACK) · IBM Bob 2.0 Hackathon
 
@@ -68,7 +74,7 @@ An educational platform with a local LLM, problem generation and review, vector 
 
 ## Tools I use
 
-**Machine learning:** Python, PyTorch, scikit-learn, CatBoost, XGBoost, LightGBM, feature engineering, forecasting, recommender systems, CV, NLP, RAG, VLM, reinforcement learning
+**Machine learning:** Python, PyTorch, scikit-learn, CatBoost, XGBoost, LightGBM, feature engineering, forecasting, recommender systems, ALS, LightGCN, SASRec, CV, NLP, RAG, VLM, reinforcement learning, offline RL
 
 **Data and engineering:** SQL, ClickHouse, PostgreSQL, pandas, NumPy, Docker, FastAPI, REST APIs, MCP, Git, Linux, React, Arduino
 
